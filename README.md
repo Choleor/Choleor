@@ -4,10 +4,11 @@ Our service makes choreography depending on similarity of other music.<br><br>
 
 
 ## 💻 Develop Environment
-* IDEL - Pycharm / ver.2020.2.1
-* Web Framework - DJango
+* IDEL - <b>Pycharm</b> / ver.2020.2.1
 
-* Language - Python
+* Web Framework - <b>DJango</b>
+
+* Language - <b>Python</b>
 
 * Design pattern
 
@@ -19,3 +20,7 @@ Our service makes choreography depending on similarity of other music.<br><br>
 <br><br>
 ## 📌 Service Architecture
 <a href="https://ibb.co/RQJbFVL"><img src="https://i.ibb.co/DwjWJS3/server-architecture.jpg" alt="server-architecture" border="0"></a>
+<br><br>
+
+## 📌 ERD
+<a href="https://ibb.co/vkdhdPj"><img src="https://i.ibb.co/6Ft8tPW/ERD-for-cap.png" alt="ERD-for-cap" border="0"></a>

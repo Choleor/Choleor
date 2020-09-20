@@ -19,7 +19,7 @@ Our service makes choreography depending on similarity of other music.<br><br>
   * Docker
 <br><br>
 ## 📌 Service Architecture
-<a href="https://ibb.co/RQJbFVL"><img src="https://i.ibb.co/DwjWJS3/server-architecture.jpg" alt="server-architecture" border="0"></a>
+<a href="https://ibb.co/KXhPqjQ"><img src="https://i.ibb.co/HV4SzDM/server-architecture.png" alt="server-architecture" border="0"></a><br /><a target='_blank' href='https://whatsmyscreenresolution.com/'>what is my screen size</a><br />
 <br><br>
 
 ## 📌 ERD

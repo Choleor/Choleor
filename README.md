@@ -51,6 +51,7 @@ Choleor 서비스는 MSA를 도입하여 audio, choreo, product 총 3개의 서�
 <a href="https://ibb.co/vkdhdPj"><img src="https://i.ibb.co/6Ft8tPW/ERD-for-cap.png" alt="ERD-for-cap" border="0"></a>
 
 ## 📌 Service Flow
+![캡처](https://user-images.githubusercontent.com/50199997/101480517-221b6e00-3997-11eb-829a-3d28c917ef83.JPG)<br>
 <ol>
  <li>안무를 생성할 음악 고르기</li>
  <li>앞에서 고른 음악중 어느 구간에 안무를 생성할지 고르기</li>

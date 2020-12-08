@@ -57,10 +57,11 @@ Choleor 서비스는 MSA를 도입하여 audio, choreo, product 총 3개의 서�
  <li>8비트식 잘려 나온 음악 구간마다 어떤 안무를 넣을시 순서대로 고르기</li>
  <li>앞에서 고른 안무들이 교차편집 된 결과를 확인하고 다운로드 받기</li>
 </ol>
+<br>
 
 ## Demo Video
 포스터 설명 및 시연 영상 link : https://www.youtube.com/watch?v=N9Tjuw00Cm4
-<br>
+<br><br>
 
 ## Project Organization
 https://github.com/Choleor
@@ -90,3 +91,9 @@ https://github.com/Choleor
 * pose estimation - openpose: https://github.com/CMU-Perceptual-Computing-Lab/openpose
 
 * audio feature extraction: https://medium.com/heuristics/audio-signal-feature-extraction-and-clustering-935319d2225
+
+* neumorphism ui : https://github.com/themesberg/neumorphism-ui-bootstrap
+<br>
+
+## License
+* MIT License

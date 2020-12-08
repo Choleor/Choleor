@@ -61,13 +61,13 @@ https://github.com/Choleor
 ## Project Repository
 * choleor server : https://github.com/Choleor/Choleor-Server
 
-* audio server : https://github.com/Choleor/choleor-audio
+* choleor audio server : https://github.com/Choleor/choleor-audio
 
-* choreo server : https://github.com/Choleor/choleor-choreo
+* choleor choreo server : https://github.com/Choleor/choleor-choreo
 
-* product server : https://github.com/Choleor/choleor-product
+* choleor product server : https://github.com/Choleor/choleor-product
 
-* frontend : https://github.com/Choleor/choleor-fe
+* choleor frontend : https://github.com/Choleor/choleor-fe
 <br><br>
 
 ## 기술 블로그

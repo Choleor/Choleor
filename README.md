@@ -88,11 +88,19 @@ https://github.com/Choleor
 <br>
 
 ## Reference
+### Frontend Reference
+* neumorphism ui : https://github.com/themesberg/neumorphism-ui-bootstrap
+### Backend Logig Reference
 * pose estimation - openpose: https://github.com/CMU-Perceptual-Computing-Lab/openpose
 
 * audio feature extraction: https://medium.com/heuristics/audio-signal-feature-extraction-and-clustering-935319d2225
+### Server Reference
+* https://github.com/CareDirection/CareDirection-Server
+ 
+* https://github.com/tape22/Fluff-Server
 
-* neumorphism ui : https://github.com/themesberg/neumorphism-ui-bootstrap
+* https://github.com/Flood-SOPT25th/Flood-Server
+
 <br>
 
 ## License

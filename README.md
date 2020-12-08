@@ -50,6 +50,14 @@ Choleor 서비스는 MSA를 도입하여 audio, choreo, product 총 3개의 서�
 ## 📌 ERD
 <a href="https://ibb.co/vkdhdPj"><img src="https://i.ibb.co/6Ft8tPW/ERD-for-cap.png" alt="ERD-for-cap" border="0"></a>
 
+## 📌 Service Flow
+<ol>
+ <li>안무를 생성할 음악 고르기</li>
+ <li>앞에서 고른 음악중 어느 구간에 안무를 생성할지 고르기</li>
+ <li>8비트식 잘려 나온 음악 구간마다 어떤 안무를 넣을시 순서대로 고르기</li>
+ <li>앞에서 고른 안무들이 교차편집 된 결과를 확인하고 다운로드 받기</li>
+</ol>
+
 ## Demo Video
 포스터 설명 및 시연 영상 link : https://www.youtube.com/watch?v=N9Tjuw00Cm4
 <br>

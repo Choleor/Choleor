@@ -104,3 +104,5 @@ https://github.com/Choleor
 
 <br>
 
+## License
+* MIT License

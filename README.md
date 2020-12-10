@@ -81,7 +81,7 @@ https://github.com/Choleor
 <br><br>
 
 ## 기술 블로그
-* 선지희 : 
+* 선지희 : https://github.com/Choleor/Choleor-Server/blob/main/%EC%84%A0%EC%A7%80%ED%9D%AC%20%EA%B8%B0%EC%88%A0%20%EB%B8%94%EB%A1%9C%EA%B7%B8.md
 
 * 송지현 : https://github.com/Choleor/Choleor-Server/blob/main/%EC%86%A1%EC%A7%80%ED%98%84%20%EA%B8%B0%EC%88%A0%20%EB%B8%94%EB%A1%9C%EA%B7%B8.md
 

@@ -85,13 +85,13 @@ https://github.com/Choleor
 
 * 송지현 : https://github.com/Choleor/Choleor-Server/blob/main/%EC%86%A1%EC%A7%80%ED%98%84%20%EA%B8%B0%EC%88%A0%20%EB%B8%94%EB%A1%9C%EA%B7%B8.md
 
-* 성혜린 : 
+* 성혜린 : https://github.com/Choleor/Choleor-Server/blob/main/%EC%84%B1%ED%98%9C%EB%A6%B0%20%EA%B8%B0%EC%88%A0%20%EB%B8%94%EB%A1%9C%EA%B7%B8.md
 <br>
 
 ## Reference
 ### Frontend Reference
 * neumorphism ui : https://github.com/themesberg/neumorphism-ui-bootstrap
-### Backend Logig Reference
+### Backend Logic Reference
 * pose estimation - openpose: https://github.com/CMU-Perceptual-Computing-Lab/openpose
 
 * audio feature extraction: https://medium.com/heuristics/audio-signal-feature-extraction-and-clustering-935319d2225
@@ -104,5 +104,3 @@ https://github.com/Choleor
 
 <br>
 
-## License
-* MIT License

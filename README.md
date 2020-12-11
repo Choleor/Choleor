@@ -5,27 +5,12 @@ Choleor는 인공지능을 기반으로 사용자가 원하는 노래에 맞춰 
 이 프로젝트는 일반인들에게는 기존의 방법(독학, 동아리, 학원 등)으로 안무를 배울 때 정해진 동작 시퀀스를 모방하는 것에 그쳐 응용력은 키울 수 없다는 문제점을, 전문가들에게는 새로운 안무를 구성할 때 주로 자신의 경험에 의존하기 때문에 시간이 오래 소요되며 스타일이 다소 한정적이게 된다는 문제점을 해결하기 위한 솔루션으로 기획되었습니다.<br>
  
 Choleor을 통해 사용자들은 여러 장르의 곡을 다양한 variation으로 배치해볼 수 있는 경험을 얻을 수 있고 그로 인해 아마추어에게는 저비용 고효율의 학습도구로 사용되고, 전문가에게는 안무 창작에 새로운 insight를 제공하기를 기대합니다.<br>
- 
-## 💻 Develop Environment
-* IDEL - <b>Pycharm</b> / ver.2020.2.1
 
-* Web Framework - <b>DJango</b>
-
-* Language - <b>Python</b>
-
-* Design pattern
-
-* Test Driven Development introduced
-
-* Service
-  * Raspberry pi
-  * Docker
-<br><br>
 
 ## 💻 Development Stack
 * Web Front: HTML,CSS,JS
 
-* Framework: python, django
+* Language/Framework: python, django (IDLE: Pycharm / ver.2020.2.1)
 
 * DB/Cache: MySQL, redis
 
@@ -36,11 +21,11 @@ Choleor을 통해 사용자들은 여러 장르의 곡을 다양한 variation으
 * H/W: Raspberry PI
 
 * Main Library: openpose, openCV, sklearn, librosa
+
+- etc: Design pattern, Test Driven Development introduced
+
 <br>
 
-## 📌 Service Architecture
-<a href="https://ibb.co/KXhPqjQ"><img src="https://i.ibb.co/HV4SzDM/server-architecture.png" alt="server-architecture" border="0"></a><br /><a target='_blank' href='https://whatsmyscreenresolution.com/'>what is my screen size</a><br />
-<br><br>
 
 ## 📌 Server Architecture
 Choleor 서비스는 MSA를 도입하여 audio, choreo, product 총 3개의 서버로 분리하였으며 전반적인 아키텍쳐는 다음과 같습니다.<br>

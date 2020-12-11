@@ -81,12 +81,15 @@ https://github.com/Choleor
 <br><br>
 
 ## 기술 블로그
-* 선지희 : https://github.com/Choleor/Choleor-Server/blob/main/%EC%84%A0%EC%A7%80%ED%9D%AC%20%EA%B8%B0%EC%88%A0%20%EB%B8%94%EB%A1%9C%EA%B7%B8.md
+* 선지희 : 서버 개발 - MSA<br>
+https://github.com/Choleor/Choleor-Server/blob/main/%EC%84%A0%EC%A7%80%ED%9D%AC%20%EA%B8%B0%EC%88%A0%20%EB%B8%94%EB%A1%9C%EA%B7%B8.md<br>
 
-* 송지현 : https://github.com/Choleor/Choleor-Server/blob/main/%EC%86%A1%EC%A7%80%ED%98%84%20%EA%B8%B0%EC%88%A0%20%EB%B8%94%EB%A1%9C%EA%B7%B8.md
 
-* 성혜린 : https://github.com/Choleor/Choleor-Server/blob/main/%EC%84%B1%ED%98%9C%EB%A6%B0%20%EA%B8%B0%EC%88%A0%20%EB%B8%94%EB%A1%9C%EA%B7%B8.md
-<br>
+* 송지현 : 안무 수치화, 영상 교차편집<br>
+https://github.com/Choleor/Choleor-Server/blob/main/%EC%86%A1%EC%A7%80%ED%98%84%20%EA%B8%B0%EC%88%A0%20%EB%B8%94%EB%A1%9C%EA%B7%B8.md<br>
+
+* 성혜린 : ML 비지도 학습으로 음악 간의 유사도 비교<br>
+https://github.com/Choleor/Choleor-Server/blob/main/%EC%84%B1%ED%98%9C%EB%A6%B0%20%EA%B8%B0%EC%88%A0%20%EB%B8%94%EB%A1%9C%EA%B7%B8.md<br>
 
 ## Reference
 ### Frontend Reference

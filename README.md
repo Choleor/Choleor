@@ -54,15 +54,19 @@ https://github.com/Choleor
 <br><br>
 
 ## Project Repository
-* choleor server : https://github.com/Choleor/Choleor-Server
+* choleor server : https://github.com/Choleor/Choleor-Server-reboot
 
-* choleor audio server : https://github.com/Choleor/choleor-audio
+* choleor audio server : https://github.com/Choleor/choleor-audio-reboot
 
-* choleor choreo server : https://github.com/Choleor/choleor-choreo
+* choleor choreo server : https://github.com/Choleor/choleor-choreo-reboot
 
-* choleor product server : https://github.com/Choleor/choleor-product
+* choleor product server : https://github.com/Choleor/choleor-product-reboot
 
 * choleor frontend : https://github.com/Choleor/choleor-fe
+
+* choleor kube : https://github.com/Choleor/Choleor-kube
+
+!! 레포지토리 A와 A-reboot가 있다면 A-reboot쪽 코드를 참고해주세요 !!
 <br><br>
 
 ## 기술 블로그

@@ -29,11 +29,10 @@ Choleor을 통해 사용자들은 여러 장르의 곡을 다양한 variation으
 
 ## 📌 Server Architecture
 Choleor 서비스는 MSA를 도입하여 audio, choreo, product 총 3개의 서버로 분리하였으며 전반적인 아키텍쳐는 다음과 같습니다.<br>
-<img width="445" alt="architecture" src="https://user-images.githubusercontent.com/50199997/101448164-eae29800-3969-11eb-90ed-d4f31192c5a3.png"><br>
-
+<a href="https://ibb.co/zHWgCJh"><img src="https://i.ibb.co/JFWT8QR/diagram.png" alt="diagram" border="0"></a>
 
 ## 📌 ERD
-<a href="https://ibb.co/vkdhdPj"><img src="https://i.ibb.co/6Ft8tPW/ERD-for-cap.png" alt="ERD-for-cap" border="0"></a>
+<a href="https://ibb.co/m8LM20N"><img src="https://i.ibb.co/hfPt4cY/msa-erd.png" alt="msa-erd" border="0"></a>
 
 ## 📌 Service Flow
 ![캡처](https://user-images.githubusercontent.com/50199997/101480517-221b6e00-3997-11eb-829a-3d28c917ef83.JPG)<br>

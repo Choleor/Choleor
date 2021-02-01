@@ -44,9 +44,15 @@ Choleor 서비스는 MSA를 도입하여 audio, choreo, product 총 3개의 서�
 </ol>
 <br>
 
-## Demo Video
+## 📌 Backend Considerations
+<a href="https://ibb.co/cyfXB02"><img src="https://i.ibb.co/VLnp1RM/proc.png" alt="proc" border="0"></a>
+
+## 📹 Demo Video
 포스터 설명 및 시연 영상 link : https://www.youtube.com/watch?v=N9Tjuw00Cm4
 <br><br>
+
+## 📄 Poster
+<a href="https://ibb.co/xgT2LV2"><img src="https://i.ibb.co/NNBFCwF/poster.png" alt="poster" border="0"></a>
 
 ## Project Organization
 https://github.com/Choleor

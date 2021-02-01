@@ -1,4 +1,5 @@
 # Choleor-Server
+## 🏆졸업작품 수상작🏆
 ### Choreography Generator Service
 Choleor는 인공지능을 기반으로 사용자가 원하는 노래에 맞춰 새로운 안무 variation을 제공하는 웹 서비스 입니다.<br>
  
